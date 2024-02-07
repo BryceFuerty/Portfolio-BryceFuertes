@@ -8,6 +8,7 @@ const RightBanner = () => {
         className="w-[30%] h-[40%] lgl:w-[500px] lgl:h-[680px] z-10"
         src={bannerImg}
         alt="bannerImg"
+        style={{borderRadius:"10px"}}
       />
       
     </div>
